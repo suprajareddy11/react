@@ -1,0 +1,9 @@
+[
+    {
+      "couponName": "20% off coupon code",
+      "maxUsers": 100,
+      "description": "It is a special offer coupon",
+      "couponRedemptionLimit": 25,
+      "couponCodePrefix": 10
+    }
+  ]

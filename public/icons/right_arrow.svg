@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="22px" viewBox="0 0 13 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>_/Design+Code Logo Dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.9712128,17.0217717 L11.2089009,8.1264863 C10.8350763,7.74698869 10.8351357,7.13767776 11.2090343,6.75825306 C11.2123254,6.75491335 11.2156412,6.75159816 11.2189816,6.74830775 C11.5912691,6.3815855 12.1903548,6.38609701 12.5570771,6.7583845 L21.3191333,15.6534104 L21.3233838,15.6490955 L22.6667148,17.0135587 L22.6628318,17.0175003 L22.6667148,17.0214423 L21.3185386,18.3895441 L21.3148738,18.3858236 L12.5899732,27.2425415 C12.5866474,27.2459175 12.5832962,27.2492685 12.5799198,27.252594 C12.2089379,27.6179928 11.6119834,27.6134667 11.2465846,27.2424847 C10.874004,26.8642111 10.8740212,26.2569185 11.2466233,25.878666 L19.9712128,17.0217717 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-252.000000, -512.000000)">
+            <g id="Group-5" transform="translate(27.000000, 425.000000)">
+                <g id="Glyphs/Navigation-or-Toolbar/Forward" transform="translate(231.866413, 97.866413) rotate(-1.000000) translate(-231.866413, -97.866413) translate(214.866413, 80.866413)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Arrow" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <g id="_/Color/System/Blue" mask="url(#mask-2)" fill="#007AFF" fill-rule="evenodd">
+                        <rect id="Color" x="0" y="0" width="34" height="34"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
