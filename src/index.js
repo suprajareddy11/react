@@ -14,7 +14,6 @@ import { Provider } from 'react-redux';
 import { createStore } from 'redux';
 import UserCoupon from './Components/Coupon/UserCoupon'
 
-
 import './index.css';
 import reducers from "./reducers/authReducer";
 import App from './App';
