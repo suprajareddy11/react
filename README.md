@@ -1,4 +1,4 @@
-# sams-promotions-ui
+# react
 
 How to run the project 
 
