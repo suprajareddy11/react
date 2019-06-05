@@ -50,7 +50,7 @@ function userCoupon() {
   return (
     <div className="container"> 
       <RadioButtonsGroup type="single" />
-      {<SingleUserField/>}
+      <SingleUserField/>
       <MultiUserFields/>
       <ContainedButtons />
       <ImportRadioButtons />

@@ -1,0 +1,44 @@
+[
+    {
+      "couponId": "SP_GM_20_OFF",
+      "couponName": "20% off coupon code",
+      "status": "ACTIVE",
+      "SearchField": "ACTIVE"
+    },
+    {
+      "couponId": "SP_GM_30_OFF",
+      "couponName": "30% off coupon code",
+      "status": "INACTIVE",
+      "SearchField": "INACTIVE"
+    },
+    {
+      "couponId": "SP_GM-40_OFF",
+      "couponName": "40% off coupon code",
+      "status": "ACTIVE",
+      "SearchField": "ACTIVE"
+    },
+    {
+        "couponId": "SP_GM_50_OFF",
+        "couponName": "50% off coupon code",
+        "status": "INACTIVE",
+        "SearchField": "INACTIVE"
+    },
+    {
+        "couponId":"SP_GM-60_OFF",
+        "couponName":"60% off coupon code",
+        "status": "ACTIVE",
+        "SearchField": "ACTIVE"
+    },
+    {
+      "couponId": "SP_GM-80_OFF",
+      "couponName": "80% off coupon code",
+      "status": "INACTIVE",
+      "SearchField": "INACTIVE"
+  },
+  {
+    "couponId": "SP_GM_70_OFF",
+    "couponName": "70% off coupon code",
+    "status": "ACTIVE",
+    "SearchField": "ACTIVE"
+}
+  ]
